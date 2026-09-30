@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-organization-automation",
+      "title": "File Organization Automation",
+      "description": "Organize files by extension with pathlib, JSON logging, and error handling.",
+      "path": "assignments/file-organization-automation",
+      "dueDate": "2026-10-07",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
